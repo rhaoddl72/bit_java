@@ -1,0 +1,3 @@
+Book java 20000
+Book sql 35000
+Book DB 18000
